@@ -1,4 +1,4 @@
-<div align="center">بسم الله الرحمن الرحيم<br><br></div>
+<div align="center">بسم الله الرحمن الرحيم<br></div>
 <div align="left">
 
 # Youtube Reaction Removing
